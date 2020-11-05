@@ -1,0 +1,22 @@
+body{
+	background-color: darkslategray;
+	width: 900px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.header{
+	background-color: blue;
+	text-align: center;
+	height: 80px;
+	color: white;
+}
+.subheader{
+	background-color: skyblue;
+	height: 60px;
+	text-align: center;
+	margin: 0;
+}
+.showdata{
+	background-color: white;
+	height: 600px;
+}
